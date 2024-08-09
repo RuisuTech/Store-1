@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        Hola Mundo
+        Hola Mundo :D
       </div>
     </>
   )
